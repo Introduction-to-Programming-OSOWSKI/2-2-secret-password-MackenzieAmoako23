@@ -3,5 +3,3 @@ def password(p):
         return True
     else:
         return False
-
-print(password(password))   
